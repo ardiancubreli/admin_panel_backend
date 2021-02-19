@@ -19,7 +19,7 @@ store etc.
 per page
 - Laravel make:auth as default Bootstrap-based design theme, but removed
 ability to register
-- Services and Repositories pattern
+- Service and Repository pattern
 
 ## Installation
 
