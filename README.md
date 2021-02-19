@@ -41,7 +41,7 @@ php artisan serve
 
 ## Login credentials & DEMO
 
-[Live DEMO](http://188.166.52.65
+[Live DEMO](http://188.166.52.65)
 
 Use either email ```admin@admin.com``` or username ```admin```
 
