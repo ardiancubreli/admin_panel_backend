@@ -41,6 +41,6 @@ php artisan serve
 
 ## Login credentials
 
-Use either email ```admin@admin.com``` or username ```password```
+Use either email ```admin@admin.com``` or username ```admin```
 
-Password: ```admin123```
+Password: ```password```
