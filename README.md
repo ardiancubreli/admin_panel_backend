@@ -39,7 +39,9 @@ php artisan migrate --seed
 php artisan serve
 ```
 
-## Login credentials
+## Login credentials & DEMO
+
+[Live DEMO](http://188.166.52.65
 
 Use either email ```admin@admin.com``` or username ```admin```
 
