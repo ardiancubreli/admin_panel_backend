@@ -23,6 +23,7 @@ ability to register
 ## Installation
 
 Clone the repo: ``` git clone https://github.com/ardiancubreli/admin_panel_backend.git ```
+
 Run ```copy .env.example .env``` and after that update database credentials in ```.env``` file
 ```sh 
 composer install
@@ -35,4 +36,5 @@ php artisan serve
 ## Login credentials
 
 Use either email ```admin@panel.com``` or username ```admin```
+
 Password: ```admin123```
