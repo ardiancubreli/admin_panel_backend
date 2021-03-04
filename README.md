@@ -1,4 +1,13 @@
 # Admin panel backend
+
+## Login credentials & DEMO
+
+[Live DEMO](http://188.166.52.65)
+
+Use either email ```admin@admin.com``` or username ```admin```
+
+Password: ```password```
+
 ## Features
 
 - Basic Laravel Auth: ability to log in as administrator
@@ -38,11 +47,3 @@ php artisan storage:link
 php artisan migrate --seed
 php artisan serve
 ```
-
-## Login credentials & DEMO
-
-[Live DEMO](http://188.166.52.65)
-
-Use either email ```admin@admin.com``` or username ```admin```
-
-Password: ```password```
